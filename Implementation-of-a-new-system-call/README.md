@@ -1,0 +1,2 @@
+# Implementation-of-a-new-system-call
+This​ ​ system​ ​ call​ ​ helps​ ​ us​ ​ to​ ​ know​ ​ the​ ​ ​ FILE​ ​ NAME and​ ​ PID​ ​ of​ ​ the​ ​ runnable,terminated,unrunnable​ ​ processes along​ ​ with​ ​ their​ ​ total​ ​ count​ ​ . Along​ ​ with​ ​ this​ ​ ,the​ ​ user​ ​ also​ ​ get​ ​ to​ ​ know​ ​ the information(file​ ​ name,pid)​ ​ of​ ​ the​ ​ high​ ​ priority​ ​ ,low priority,and​ ​ standard​ ​ priority​ ​ of​ ​ the​ ​ processes​ ​ along​ ​ with their​ ​ count.
